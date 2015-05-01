@@ -1,0 +1,17 @@
+{
+  "contact1": {
+    "lastname": "Desjardins",
+    "firstname": "Daniel",
+    "phone": "4186930287"
+  },
+  "contact2": {
+    "lastname": "Gausselin",
+    "firstname": "Marc",
+    "phone": "4186930287"
+  },
+  "contact3": {
+    "lastname": "Brulotte",
+    "firstname": "Francois",
+    "phone": "4386930287"
+  }
+}
